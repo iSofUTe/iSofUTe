@@ -1,0 +1,22 @@
+|----------------------------------------------------------|
+|install Softwares from Ubuntu Terminal - iSofUTe          |
+|Project on GitHub: https://github.com/iSofUTe/iSofUTe     |
+|----------------------------------------------------------|
+|                                                          |
+|1. Install...                                             |
+|...Firefox - Mozilla Corporation (https://www.mozilla.org)|
+|                                                          |
+|Commads on Terminal:                                      |
+|                                                          |
+|  sudo apt update                                         |
+|  sudo apt install firefox                                |
+|----------------------------------------------------------|
+|                                                          |
+|2. Uninstall...                                           |
+|...Firefox - Mozilla Corporation (https://www.mozilla.org)|
+|                                                          |
+|Commads on Terminal:                                      |
+|                                                          |
+|  sudo apt remove firefox                                 |
+|  sudo apt autoremove                                     |
+|----------------------------------------------------------|
