@@ -1,0 +1,24 @@
+|-----------------------------------------------------------|
+|install Softwares from Ubuntu Terminal - iSofUTe           |
+|Project on GitHub: https://github.com/iSofUTe/iSofUTe      |
+|-----------------------------------------------------------|
+|                                                           |
+|1. Install...                                              |
+|...UNetbootin - Geza Kovacs (https://unetbootin.github.io/)|
+|                                                           |
+|Commads on Terminal:                                       |
+|                                                           |
+|  sudo add-apt-repository ppa:gezakovacs/ppa               |
+|  sudo apt-get update                                      |
+|  sudo apt-get install unetbootin                          |
+|-----------------------------------------------------------|
+|                                                           |
+|2. Uninstall...                                            |
+|...UNetbootin - Geza Kovacs (https://unetbootin.github.io/)|
+|                                                           |
+|Commads on Terminal:                                       |
+|                                                           |
+|  sudo apt remove unetbootin                               |
+|  sudo apt autoremove                                      |
+|  sudo add-apt-repository -r ppa:gezakovacs/ppa            |
+|-----------------------------------------------------------|
